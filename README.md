@@ -31,3 +31,6 @@ WeatherNow leverages modern web technologies to provide a seamless and responsiv
 - JSON API Integration
 
 Enjoy the convenience of real-time weather updates and forecasts at your fingertips with WeatherNow.
+
+
+## for live demo please click on the link :
